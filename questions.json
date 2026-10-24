@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What does print(type([])) show in Python?",
+    "options": ["<class 'list'>", "<class 'tuple'>", "<class 'dict'>", "<class 'set'>"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword defines a function in Python?",
+    "options": ["def", "func", "function", "define"],
+    "answer": 1
+  },
+  {
+    "question": "Which of these data types is immutable?",
+    "options": ["list", "dict", "tuple", "set"],
+    "answer": 3
+  },
+  {
+    "question": "What does len(\"Python\") return?",
+    "options": ["5", "6", "7", "Error"],
+    "answer": 2
+  },
+  {
+    "question": "Which symbol starts a single-line comment in Python?",
+    "options": ["//", "#", "/*", "--"],
+    "answer": 2
+  },
+  {
+    "question": "What is the value of 2 ** 3 in Python?",
+    "options": ["6", "8", "9", "5"],
+    "answer": 2
+  },
+  {
+    "question": "Which SQL command retrieves data from a table?",
+    "options": ["GET", "SELECT", "FETCH", "OPEN"],
+    "answer": 2
+  },
+  {
+    "question": "What does the command git push do?",
+    "options": [
+      "Downloads code from GitHub",
+      "Uploads your commits to the remote repository",
+      "Deletes a branch",
+      "Creates a new repository"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of these is a loop keyword in Python?",
+    "options": ["repeat", "foreach", "while", "loop"],
+    "answer": 3
+  },
+  {
+    "question": "In OOP, what is an object?",
+    "options": [
+      "A blueprint for a class",
+      "An instance of a class",
+      "A type of loop",
+      "A file format"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which method adds an item to the end of a list?",
+    "options": ["add()", "append()", "insert_end()", "push()"],
+    "answer": 2
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "High Tech Modern Language",
+      "HyperTool Multi Language",
+      "Home Text Markup Level"
+    ],
+    "answer": 1
+  }
+]
